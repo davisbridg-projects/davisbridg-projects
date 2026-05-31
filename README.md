@@ -2,7 +2,7 @@
 
 🎓 Data Analyst | Higher Education & Student Success
 📍 Phoenix, Arizona
-🔗 [LinkedIn URL]
+🔗 [https://www.linkedin.com/in/williamsbridg/]
 
 ## About Me
 I'm a former academic advisor with 13 years of experience
