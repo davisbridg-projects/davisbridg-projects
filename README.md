@@ -14,7 +14,7 @@ retention, enrollment trends, and institutional outcomes.
 | Project | Tools | Description |
 |---|---|---|
 | [New Wheels Business Analysis](https://github.com/davisbridg-projects/new-wheels-sql-business-report) | SQL | 10-question quarterly business report for a vehicle resale CEO |
-| Early Alert Dashboard | Power BI, DAX | Coming soon |
+| [FoodHub Demand Analysis](https://github.com/davisbridg-projects/foodhub-python-analysis) | Python | Exploratory data analysis of NYC food delivery orders |
 | Enrollment Funnel Report | Python, SQL, Power BI | Coming soon |
 
 ## 🛠️ Skills
